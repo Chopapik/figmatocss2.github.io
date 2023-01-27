@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96.620239mm"
+   height="29.823317mm"
+   viewBox="0 0 96.620239 29.823317"
+   version="1.1"
+   id="svg8659"
+   inkscape:export-filename="bitmapa.svg"
+   inkscape:export-xdpi="12.828283"
+   inkscape:export-ydpi="12.828283"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8661"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs8656" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.347974,-8.4529426)">
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       d="m 32.802591,17.706334 3.86703,-2.23211 -12.1605,-7.0212819 -12.160663,7.0212819 3.866695,2.23172 8.293888,-4.81008 z"
+       id="path320-2" />
+    <path
+       style="display:inline;fill:#292929;fill-opacity:0.788461;stroke-width:0.0470001;stroke-dasharray:none"
+       d="m 24.464201,11.806605 9e-5,9.59886"
+       id="path350-9" />
+    <path
+       id="path336-6"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       d="m 36.668971,15.474152 -3.86695,2.23242 v 10.88616 l -4.4266,2.5554 v -10.88564 l -3.86695,2.23242 v 14.04204 l 12.1605,-7.02128 z" />
+    <path
+       id="path338-4"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       d="m 12.347974,15.474152 3.866947,2.23242 v 10.88616 l 4.4266,2.5554 v -10.88564 l 3.86695,2.23242 v 14.04204 l -12.160497,-7.02128 z" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       d="m 24.507771,22.495277 3.86642,-2.23237 -3.86695,-2.21409 -3.86723,2.2136"
+       id="path340-5" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       d="m 24.511671,33.378959 3.86641,-2.23237 -3.86694,-2.21409 -3.86723,2.2136"
+       id="path340-5-4" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.0626417;stroke-dasharray:none"
+       d="m 105.62695,33.028965 -14.175439,3.54e-4 c 0,0 2.8831,-5.275147 2.8831,-5.275147 l 8.385429,3.4e-4 2.90691,5.274425"
+       id="path354-8" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.0626417;stroke-dasharray:none"
+       d="m 83.066051,33.028978 -2.88246,-5.275543 14.17545,-3.55e-4 -2.90753,5.276239 z"
+       id="path356-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.525px;font-family:'Days One';-inkscape-font-specification:'Days One';letter-spacing:1.32292px;fill:#ff8080;stroke-width:0.264583"
+       x="39.918343"
+       y="25.523344"
+       id="text602"><tspan
+         sodipodi:role="line"
+         id="tspan600"
+         style="font-size:9.525px;fill:#ffffff;stroke-width:0.264583"
+         x="39.918343"
+         y="25.523344">SENNERA</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.208548;stroke-opacity:0"
+       d="m 106.14095,32.739289 2.70853,-4.997712 -2.73733,-5.003471 -2.73849,5.004625 z"
+       id="path6060" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.208548;stroke-opacity:0"
+       d="m 79.865321,38.059244 2.70853,-4.997711 -2.73733,-5.003471 -2.73849,5.004624 z"
+       id="path6060-7" />
+  </g>
+</svg>
